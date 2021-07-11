@@ -11,4 +11,4 @@ https://www.kaggle.com/cactus3/basicshapes
 
 ## Running the flask app
 1. To run the flask app run the command `python app.py`. Alternatively, you can also run `flask run` to start the flask server.
-2. Go to the web browser and enter URL `localhost:<port>` where <port> will be mentioned on the terminal where server is running.  
+2. Go to the web browser and enter URL `localhost:<port>` where `<port>` will be mentioned on the terminal where server is running.  
