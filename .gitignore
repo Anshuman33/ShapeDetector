@@ -2,3 +2,4 @@
 .vscode/
 shapes/
 dataset.zip
+__pycache__/
