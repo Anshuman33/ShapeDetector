@@ -1,0 +1,10 @@
+canvas {
+    border: 1px solid black;
+}
+
+.canvasDiv{
+    display: flex;
+    flex-direction: column;
+    width:max-content;
+    height:max-content
+}
